@@ -117,8 +117,18 @@ Quality Management:
 Systematic Approach: Involves a systematic approach to planning, executing, and controlling software development activities to ensure that quality expectations are met. 
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+
+defining a the project scope for a given software project gives the precise definition of the project being worked on giving a clear view of the requirements of the project establishing clear boundaries,deliverables and expectations which is importatant for resource allocation,time management and stack-holder communication thus increasing the chances of project success.Establishes Clear Boundaries and Expectations a well-defined scope outlines what the project will and will not include, preventing scope creep and ensuring that the project stays focused on its objectives. It clarifies the deliverables, tasks, and resources required, providing a clear roadmap for the project team. By defining the scope, stakeholders have a shared understanding of what to expect, leading to better communication and alignment.Facilitates Effective Planning and Resource Allocation a clear scope allows for accurate estimation of project timelines, costs, and resource requirements. It helps in identifying potential risks and challenges early on, enabling proactive risk management and mitigation strategies. With a well-defined scope, project managers can make informed decisions about resource allocation, ensuring that the right resources are available at the right time.
+A Work Breakdown Structure (WBS) is a project management tool that breaks down a project's scope into smaller, more manageable components, providing a hierarchical view of the work required to achieve project objectives.The purpose of a Work Breakdown Structure in project management is to organize and define the project scope by breaking it down into manageable components, facilitating planning, execution, and control. 
+
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+
+Developing a detailed project schedule helps you keep up with the time limits of the project and the due dates put in place for the components of tthe project you are working on.A detailed project schedule allows for accurate estimation of the project timeline thus making iit easy to work on the components of the project that are required in quick time frames.Then when challanges arise that deter the project development face a well defined project schedule will allow for such instances thus having time for setbacks is always a great idea in the project schedule.
+Gantt charts are visualition of what the project plan will look like by giving a precise look at tasks their duration,status and priority,stating start and end dates for the project giving you the progress report and time line for he project with a time scale showing the milestones reached and the dealines that are set,it gives you a look at the dependencies between tasks.
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 ## 11. What are the main features or functionalities that make your software stand out?
